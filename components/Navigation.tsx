@@ -15,8 +15,8 @@ export default function Navigation() {
   ];
 
   return (
-    <nav className="fixed w-1/2 bottom-10 left-1/2 -translate-x-1/2 right-0 bg-background/80 backdrop-blur-lg border z-50 rounded-full shadow-white shadow-[0_0px_55px_-27px_rgba(0,0,0,0.001)]">
-      <div className="container mx-auto px-4 shadow	">
+    <nav className="fixed w-min bottom-5 left-1/2 -translate-x-1/2 right-0 bg-background/80 backdrop-blur-lg border z-50 rounded-full shadow-white shadow-[0_0px_55px_-30spx_rgba(0,0,0,0.001)]">
+      <div className="container px-8 py-1 shadow	">
         <div className="flex justify-center items-center h-16 gap-8">
           {links.map(({ href, label, icon: Icon }) => (
             <Link
