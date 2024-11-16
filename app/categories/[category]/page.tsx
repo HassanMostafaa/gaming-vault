@@ -46,3 +46,7 @@ export default function CategoryPage({
     </div>
   );
 }
+
+export function generateStaticParams() {
+  return validCategories.map((category) => ({ category }));
+}

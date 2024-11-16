@@ -70,3 +70,8 @@ export default function GamePage({
     </div>
   );
 }
+
+
+export function generateStaticParams() {
+  return DUMMY_GAMES.map((game) => ({ id: game.id }));
+}
