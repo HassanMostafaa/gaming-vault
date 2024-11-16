@@ -1,6 +1,5 @@
 # gaming-vault
 
-```markdown
 # Video Games News Website
 
 A responsive and modern video games news website built with Next.js. This project showcases categories and games, allows filtering, and includes individual pages for games and categories. It uses dummy data for demonstration purposes.
@@ -155,8 +154,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 Hassan Mohamed  
 Feel free to reach out for any questions or suggestions!  
-Email: hassan.mostafa2251@gmail.com  
-```
+Email: 📧 hassan.mostafa2251@gmail.com  
+
 
 This README provides all necessary details for installation, usage, and project structure while highlighting key features and dummy data. Adjust it to match your specific project structure or additional features.
 
